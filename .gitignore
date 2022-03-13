@@ -1,0 +1,7 @@
+/secrets/license_key.txt
+/secrets/subscription_name.txt
+/secrets/mykey
+/secrets/mykey.pub
+/azuredeploy-existing-network.json
+/azuredeploy-existing-network.parameters.json
+/runtime-init-conf-3nic-byol.yaml
